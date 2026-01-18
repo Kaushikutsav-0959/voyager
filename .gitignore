@@ -1,0 +1,32 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Env
+.env
+
+# C++
+*.o
+*.out
+pricing-engine
+
+# Build
+dist/
+build/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Docker
+*.pid
+
+# Database dumps
+database/backups/
